@@ -1,0 +1,15 @@
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\bin\Debug\net6.0\ReadonlyConstant.exe
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\bin\Debug\net6.0\ReadonlyConstant.deps.json
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\bin\Debug\net6.0\ReadonlyConstant.runtimeconfig.json
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\bin\Debug\net6.0\ReadonlyConstant.dll
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\bin\Debug\net6.0\ReadonlyConstant.pdb
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.csproj.AssemblyReference.cache
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.GeneratedMSBuildEditorConfig.editorconfig
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.AssemblyInfoInputs.cache
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.AssemblyInfo.cs
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.csproj.CoreCompileInputs.cache
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.dll
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\refint\ReadonlyConstant.dll
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.pdb
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ReadonlyConstant.genruntimeconfig.cache
+D:\myproject\BootCamp\oops\ConstantReadonly\ReadonlyConstant\ReadonlyConstant\obj\Debug\net6.0\ref\ReadonlyConstant.dll

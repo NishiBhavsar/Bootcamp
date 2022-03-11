@@ -1,0 +1,15 @@
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\bin\Debug\net6.0\Dataconvertion.exe
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\bin\Debug\net6.0\Dataconvertion.deps.json
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\bin\Debug\net6.0\Dataconvertion.runtimeconfig.json
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\bin\Debug\net6.0\Dataconvertion.dll
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\bin\Debug\net6.0\Dataconvertion.pdb
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.csproj.AssemblyReference.cache
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.GeneratedMSBuildEditorConfig.editorconfig
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.AssemblyInfoInputs.cache
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.AssemblyInfo.cs
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.csproj.CoreCompileInputs.cache
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.dll
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\refint\Dataconvertion.dll
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.pdb
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\Dataconvertion.genruntimeconfig.cache
+D:\myproject\BootCamp\oops\DataConvertion\Dataconvertion\Dataconvertion\obj\Debug\net6.0\ref\Dataconvertion.dll

@@ -1,0 +1,15 @@
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.csproj.AssemblyReference.cache
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.GeneratedMSBuildEditorConfig.editorconfig
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.AssemblyInfoInputs.cache
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.AssemblyInfo.cs
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.csproj.CoreCompileInputs.cache
+D:\myproject\BootCamp\oops\Array\array\array\bin\Debug\net6.0\array.exe
+D:\myproject\BootCamp\oops\Array\array\array\bin\Debug\net6.0\array.deps.json
+D:\myproject\BootCamp\oops\Array\array\array\bin\Debug\net6.0\array.runtimeconfig.json
+D:\myproject\BootCamp\oops\Array\array\array\bin\Debug\net6.0\array.dll
+D:\myproject\BootCamp\oops\Array\array\array\bin\Debug\net6.0\array.pdb
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.dll
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\refint\array.dll
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.pdb
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\array.genruntimeconfig.cache
+D:\myproject\BootCamp\oops\Array\array\array\obj\Debug\net6.0\ref\array.dll

@@ -1,0 +1,15 @@
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.csproj.AssemblyReference.cache
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.GeneratedMSBuildEditorConfig.editorconfig
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.AssemblyInfoInputs.cache
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.AssemblyInfo.cs
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.csproj.CoreCompileInputs.cache
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\bin\Debug\net6.0\CollectionClassList.exe
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\bin\Debug\net6.0\CollectionClassList.deps.json
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\bin\Debug\net6.0\CollectionClassList.runtimeconfig.json
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\bin\Debug\net6.0\CollectionClassList.dll
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\bin\Debug\net6.0\CollectionClassList.pdb
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.dll
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\refint\CollectionClassList.dll
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.pdb
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\CollectionClassList.genruntimeconfig.cache
+D:\myproject\BootCamp\oops\CollectionList\CollectionClassList\CollectionClassList\obj\Debug\net6.0\ref\CollectionClassList.dll

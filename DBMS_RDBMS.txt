@@ -1,0 +1,68 @@
+//create database
+CREATE DATABASE Test;
+
+//Creating a Table
+	CREATE TABLE employee(
+    e_id INT, 
+    e_fname VARCHAR(20),
+	e_lname VARCHAR(20),
+    Salary INT);
+
+//insert into table	
+insert into employee VALUES(1, "Nishi","Bhavsar", 25000);
+insert into employee VALUES(2, "Vishruti","Patel", 24000);
+insert into employee VALUES(3, "Shruti","Gajjar", 20000);
+insert into employee VALUES(4, "Riya","Sagar", 22000);	
+
+//update
+UPDATE employee SET salary=25000 WHERE e_id=2;
+
+//delete
+DELETE FROM employee WHERE e_id=3;
+
+//select
+SELECT e_id, e_fname FROM employee;
+
+//alter table
+ALTER TABLE employee ADD(
+    address VARCHAR(200)
+);
+
+//like
+SELECT * FROM employee WHERE e_fname LIKE 'N%';
+
+//ORDER BY
+SELECT * FROM employee ORDER BY salary DESC;
+
+//group by
+SELECT e_id,e_fname  
+FROM employee GROUP BY salary;
+
+//having
+SELECT * FROM employee GROUP BY salary
+HAVING salary > 20000;
+
+//DISTINCT
+SELECT DISTINCT salary FROM employee;
+
+//AND
+SELECT * FROM employee WHERE salary < 10000 AND age > 21
+
+//JOIN
+SELECT * FROM 
+employee CROSS JOIN department;
+
+//Natural Join
+SELECT * from employee NATURAL JOIN department;
+
+//OUTER JOIN
+
+//LEFT Outer Join
+SELECT * FROM employee LEFT OUTER JOIN department ON (employee.d_id = department.d_id);
+
+//RIGHT Outer Join
+SELECT * FROM employee RIGHT OUTER JOIN department ON (employee.d_id = department.d_id); 
+
+//Full Outer Join
+SELECT * FROM employee FULL OUTER JOIN department ON (employee.d_id = department.d_id);
+
